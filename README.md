@@ -10,7 +10,7 @@ This is like minecraft on steriods. If this was minecraft, every object would be
 
 InfiniteCreations is not an engine or game. It is a huge extraordinary community of people who want to experience WebGL gaming, in a virtual world. You design your game within a skybox, and about everything in the game is interactive, including the sky. You can open your work publicly, or private. You have the role of an administration/owner. There will be default roles, and you can create your own roles. Without your object, you can define permissions for each role that is able to do a task. You have the power and tools to create your world as if you was Jesus himself. IC could also be refered as Roblox, however IC is taking a further step into being able to create a game easily. (Depending on your knowledge). When games are created with InfiniteCreations you can be able to publish it. Your game will then be approved, and posted onto our game hub. InfiniteCreations isn't just a game, but a world of game that we will even create. InfiniteCreations is the community. 
 
-##### Games related or similar to InfiniteCreates
+##### Games related or similar to InfiniteCreations
 - Minecraft ( In general, everything is poly. There's no 3D terrain features. However, we in the future hope to implement voxel tools to edit terrain yourself and also paint. )
 - Roblox ( Roblox is a community of players, and developers who make worlds for others to enjoy. )
 - Second Life ( Ability to spawn objects in game, and edit properties and write code to manipulate your object )
